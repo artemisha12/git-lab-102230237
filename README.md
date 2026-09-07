@@ -4,5 +4,6 @@
 - Họ và tên: Huỳnh Thị Xuân Hà
 - MSSV: 102230237
 - Lớp :23T_DT2
+- GitHub : Artemisha22
 ## Mục tiêu 
 Tìm hiểu Git và GitHub
